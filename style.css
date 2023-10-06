@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+}
+#Yazi {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+h1 {
+  text-transform: uppercase;
+}
+#Foto {
+  border: 5px solid white;
+  height: 500px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
